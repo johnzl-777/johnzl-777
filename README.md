@@ -48,5 +48,6 @@ I'm a fan of all things Quantum Computing, shell, and Solarized-Dark related!
 ### 📫 Contact
 If you'd like to know more about Quantum Computing or some of my preivous work, feel free to reach out!
 
-![johnzl@protonmail.ch](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
-![https://www.linkedin.com/in/jzl/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="mailto:johnzl@protonmail.ch"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/jzl/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
