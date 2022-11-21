@@ -1,6 +1,6 @@
 ## ⚛️ Greetings, I'm John Long ⚛️
 
-I'm currently Scientific Software Developer at [QuEra Computing Inc.](https://www.quera.com/) working on their neutral atom simulation package [Bloqade.jl](https://queracomputing.github.io/Bloqade.jl/dev/).
+I'm currently a Scientific Software Developer at [QuEra Computing Inc.](https://www.quera.com/) working on their neutral atom simulation package [Bloqade.jl](https://queracomputing.github.io/Bloqade.jl/dev/).
 
 I'm a fan of all things Quantum Computing, shell, and Solarized-Dark related!
 
