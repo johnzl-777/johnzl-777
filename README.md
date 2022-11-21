@@ -6,12 +6,25 @@ I'm a fan of all things Quantum Computing, shell, and Solarized-Dark related!
 
 
 ### 📦 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuEraComputing&repo=Bloqade.jl&show_owner=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aws&repo=amazon-braket-examples&show_owner=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IffTech&repo=GSG-Morph&show_owner=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IffTech&repo=Boson-Sampling&show_owner=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IffTech&repo=UCLA-Qiskit-Intro&show_owner=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href=https://github.com/QuEraComputing/Bloqade.jl>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuEraComputing&repo=Bloqade.jl&show_owner=true&theme=solarized-dark">
+</a>
+<a href="https://github.com/aws/amazon-braket-examples">
+    <img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=aws&repo=amazon-braket-examples&show_owner=true&theme=solarized-dark">
+</a>
+<a href="https://github.com/IffTech/GSG-Morph">
+    <img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=IffTech&repo=GSG-Morph&show_owner=true&theme=solarized-dark">
+</a>
+<a href="https://github.com/IffTech/Boson-Sampling">
+    <img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=IffTech&repo=Boson-Sampling&show_owner=true&theme=solarized-dark">
+</a>
+<a href="https://github.com/IffTech/UCLA-Qiskit-Intro">
+    <img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=IffTech&repo=UCLA-Qiskit-Intro&show_owner=true&theme=solarized-dark">
+</a>
 
 ### 🖋️ Languages
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
