@@ -43,8 +43,6 @@ I'm a fan of all things Quantum Computing, shell, and Solarized-Dark related!
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📊 Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnzl-777&show_icons=true&theme=solarized-dark)
 ### 📫 Contact
 If you'd like to know more about Quantum Computing or some of my preivous work, feel free to reach out!
 
