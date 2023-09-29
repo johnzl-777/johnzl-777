@@ -5,7 +5,10 @@ I'm currently a Scientific Software Developer at [QuEra Computing Inc.](https://
 I'm a fan of all things Quantum Computing, shell, and Solarized-Dark related!
 
 
-### 📦 Projects
+### 📦 Current Contributions
+<a href=https://github.com/QuEraComputing/bloqade-python>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuEraComputing&repo=bloqade-python&show_owner=true&theme=solarized-dark">
+</a>
 <a href=https://github.com/QuEraComputing/Bloqade.jl>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuEraComputing&repo=Bloqade.jl&show_owner=true&theme=solarized-dark">
 </a>
@@ -13,6 +16,8 @@ I'm a fan of all things Quantum Computing, shell, and Solarized-Dark related!
     <img align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=aws&repo=amazon-braket-examples&show_owner=true&theme=solarized-dark">
 </a>
+
+### 📦 Past Projects
 <a href="https://github.com/IffTech/GSG-Morph">
     <img align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=IffTech&repo=GSG-Morph&show_owner=true&theme=solarized-dark">
@@ -20,10 +25,6 @@ I'm a fan of all things Quantum Computing, shell, and Solarized-Dark related!
 <a href="https://github.com/IffTech/Boson-Sampling">
     <img align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=IffTech&repo=Boson-Sampling&show_owner=true&theme=solarized-dark">
-</a>
-<a href="https://github.com/IffTech/UCLA-Qiskit-Intro">
-    <img align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=IffTech&repo=UCLA-Qiskit-Intro&show_owner=true&theme=solarized-dark">
 </a>
 
 ### 🖋️ Languages
