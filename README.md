@@ -6,11 +6,17 @@ I'm a fan of all things Quantum Computing, shell, and Solarized-Dark related!
 
 
 ### 📦 Current Contributions
-<a href=https://github.com/QuEraComputing/bloqade-python>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuEraComputing&repo=bloqade-python&show_owner=true&theme=solarized-dark">
-</a>
 <a href=https://github.com/QuEraComputing/Bloqade.jl>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuEraComputing&repo=Bloqade.jl&show_owner=true&theme=solarized-dark">
+</a>
+<a href=https://github.com/QuEraComputing/ParallelMergeCSR.jl>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuEraComputing&repo=ParallelMergeCSR.jl&show_owner=true&theme=solarized-dark">
+</a>
+<a href=https://github.com/QuEraComputing/DormandPrince.jl>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuEraComputing&repo=DormandPrince.jl&show_owner=true&theme=solarized-dark">
+</a>
+<a href=https://github.com/QuEraComputing/bloqade-python>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuEraComputing&repo=bloqade-python&show_owner=true&theme=solarized-dark">
 </a>
 <a href="https://github.com/aws/amazon-braket-examples">
     <img align="center"
