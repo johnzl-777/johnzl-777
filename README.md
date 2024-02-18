@@ -15,6 +15,9 @@ I'm a fan of all things Quantum Computing, shell, and Solarized-Dark related!
 <a href=https://github.com/QuEraComputing/DormandPrince.jl>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuEraComputing&repo=DormandPrince.jl&show_owner=true&theme=solarized-dark">
 </a>
+<a href=https://github.com/QuEraComputing/quera-education>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuEraComputing&repo=quera-education&show_owner=true&theme=solarized-dark">
+</a>
 <a href=https://github.com/QuEraComputing/bloqade-python>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuEraComputing&repo=bloqade-python&show_owner=true&theme=solarized-dark">
 </a>
