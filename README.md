@@ -1,3 +1,7 @@
+> One is always behind in life
+
+*Dr.Stefan Ostermann, Senior Quantum Scientist*
+
 ## ⚛️ Greetings, I'm John Long ⚛️
 
 I'm currently a Scientific Software Developer at [QuEra Computing Inc.](https://www.quera.com/) helping build a little bit of everything from compilers and SDKs to hardware telemetry and educational resources for neutral atom quantum computers.
