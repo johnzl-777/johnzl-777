@@ -8,7 +8,7 @@ I've also interned at [Sandia National Labs](https://www.sandia.gov/), [General 
 
 Things I've worked on in my time at QuEra:
 
-- [bloqade-circuit](https://github.com/QuEraComputing/bloqade-circuit) - a collection of embedded Domain-Specific Languages (eDSLs) for neutral-atom quantum computation (I primarily work on the `squin` and `stim` DSLs)
+- [bloqade-circuit](https://github.com/QuEraComputing/bloqade-circuit) - a collection of embedded Domain-Specific Languages (eDSLs) for neutral-atom quantum computation (I primarily work on the Structural Quantum Information - `squin` and `stim` DSLs)
 - [kirin](https://github.com/QuEraComputing/kirin) - Infrastructure for building compilers for embedded Domain-Specific Languages (eDSLs) in Python
 - [Bloqade.jl](https://github.com/QuEraComputing/Bloqade.jl) - Julia-based SDK for simulating analog quantum computation with neutral atoms
 - [ParallelMergeCSR.jl](https://github.com/QuEraComputing/ParallelMergeCSR.jl) - An implementation/port of [Merill and Garland's Merge-based Parallel Sparse Matrix-Vector Multiplication (10.1109/SC.2016.57)](https://rd.yyrcd.com/CUDA/2022-03-14-Merge-based%20Parallel%20Sparse%20Matrix-Vector%20Multiplication.pdf) paper 
