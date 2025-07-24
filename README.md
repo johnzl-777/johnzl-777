@@ -6,17 +6,22 @@ I've also interned at [Sandia National Labs](https://www.sandia.gov/), [General 
 
 ### 📦 Current Contributions
 
-Things I've worked on in my time at QuEra:
+Things I'm currently focused on at QuEra:
 
-- [bloqade-circuit](https://github.com/QuEraComputing/bloqade-circuit) - a collection of embedded Domain-Specific Languages (eDSLs) for neutral-atom quantum computation (I primarily work on the Structural Quantum Information - `squin` and `stim` DSLs)
+- [bloqade-circuit](https://github.com/QuEraComputing/bloqade-circuit) - a collection of embedded Domain-Specific Languages (eDSLs) for neutral-atom quantum computation (I primarily work on the Structural Quantum Information - `squin`, as well as `stim`, DSLs)
 - [kirin](https://github.com/QuEraComputing/kirin) - Infrastructure for building compilers for embedded Domain-Specific Languages (eDSLs) in Python
+
+
+### ⬅️ Previous Contributions
+
+#### ⚛️ QuEra Computing Inc. (August 2022 - Present)
 - [Bloqade.jl](https://github.com/QuEraComputing/Bloqade.jl) - Julia-based SDK for simulating analog quantum computation with neutral atoms
 - [ParallelMergeCSR.jl](https://github.com/QuEraComputing/ParallelMergeCSR.jl) - An implementation/port of [Merill and Garland's Merge-based Parallel Sparse Matrix-Vector Multiplication (10.1109/SC.2016.57)](https://rd.yyrcd.com/CUDA/2022-03-14-Merge-based%20Parallel%20Sparse%20Matrix-Vector%20Multiplication.pdf) paper 
 - [DormandPrince.jl](https://github.com/QuEraComputing/DormandPrince.jl) - A pure Julia implementation of the Dormand-Prince 5th and 8th order solvers
 - [quera-education](https://github.com/QuEraComputing/quera-education) - Resources for learning about Analog neutral atom quantum computation with QuEra's tools and hardware
 - [amazon-braket-examples](https://github.com/amazon-braket/amazon-braket-examples) - Examples for using AWS Braket
 
-### ⬅️ Previous Contributions
+#### 🪴 If and Only If (Iff) Technologies (June 2021 - June 2022)
 - [GSG-Morph](https://github.com/IffTech/GSG-Morph) - The Graph/Subgraph Isomorphism Library for Quantum Annealers
 - [Boson-Sampling](https://github.com/IffTech/Boson-Sampling) - An educational library for better understanding Aaronson-Arkhipov Boson Sampling
 
