@@ -16,7 +16,7 @@ Things I'm currently focused on at QuEra:
 
 #### ⚛️ QuEra Computing Inc. (August 2022 - Present)
 - [Bloqade.jl](https://github.com/QuEraComputing/Bloqade.jl) - Julia-based SDK for simulating analog quantum computation with neutral atoms
-- [ParallelMergeCSR.jl](https://github.com/QuEraComputing/ParallelMergeCSR.jl) - An implementation/port of [Merill and Garland's Merge-based Parallel Sparse Matrix-Vector Multiplication (10.1109/SC.2016.57)](https://rd.yyrcd.com/CUDA/2022-03-14-Merge-based%20Parallel%20Sparse%20Matrix-Vector%20Multiplication.pdf) paper 
+- [ParallelMergeCSR.jl](https://github.com/QuEraComputing/ParallelMergeCSR.jl) - An implementation/port of [Merill and Garland's Merge-based Parallel Sparse Matrix-Vector Multiplication (10.1109/SC.2016.57)](https://ieeexplore.ieee.org/abstract/document/7877136) paper 
 - [DormandPrince.jl](https://github.com/QuEraComputing/DormandPrince.jl) - A pure Julia implementation of the Dormand-Prince 5th and 8th order solvers
 - [quera-education](https://github.com/QuEraComputing/quera-education) - Resources for learning about Analog neutral atom quantum computation with QuEra's tools and hardware
 - [amazon-braket-examples](https://github.com/amazon-braket/amazon-braket-examples) - Examples for using AWS Braket
