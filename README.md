@@ -1,4 +1,4 @@
-Greetings! I'm currently a Scientific Software Developer at [QuEra Computing Inc.](https://www.quera.com/) helping build a little bit of everything from compilers and SDKs to hardware telemetry and educational resources for neutral atom quantum computers.
+Greetings! I'm currently a Scientific Software Engineer at [QuEra Computing Inc.](https://www.quera.com/) helping build a little bit of everything from compilers and SDKs to hardware telemetry and educational resources for neutral atom quantum computers.
 
 Previously I worked at [If and Only If Technologies](https://iff.bio/) as a Quantum Software Engineer and helped develop workshops for students at [Quantum Computing at Davis](https://quist.ucdavis.edu/QCD) when I was obtaining my Bachelor's degree in Computer Science and Engineering (CSE) at [UC Davis](https://ece.ucdavis.edu/). 
 
