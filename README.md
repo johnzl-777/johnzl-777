@@ -1,4 +1,4 @@
-Greetings! I'm currently a Scientific Software Engineer at [QuEra Computing Inc.](https://www.quera.com/) helping build a little bit of everything from compilers and SDKs to hardware telemetry and educational resources for neutral atom quantum computers.
+Greetings! I'm currently a Scientific Software Engineer at [QuEra Computing Inc.](https://www.quera.com/) working on compiler infrastructure for QEC (Quantum Error Correction) on neutral atom quantum computers. I've also contributed to hardware telemetry and educational resources for neutral atom machines.
 
 Previously I worked at [If and Only If Technologies](https://iff.bio/) as a Quantum Software Engineer and helped develop workshops for students at [Quantum Computing at Davis](https://quist.ucdavis.edu/QCD) when I was obtaining my Bachelor's degree in Computer Science and Engineering (CSE) at [UC Davis](https://ece.ucdavis.edu/). 
 
@@ -8,8 +8,9 @@ I've also interned at [Sandia National Labs](https://www.sandia.gov/), [General 
 
 Things I'm currently focused on at QuEra:
 
-- [bloqade-circuit](https://github.com/QuEraComputing/bloqade-circuit) - a collection of embedded Domain-Specific Languages (eDSLs) for neutral-atom quantum computation (I primarily work on the Structural Quantum Information - `squin`, as well as `stim`, DSLs)
+- [bloqade-circuit](https://github.com/QuEraComputing/bloqade-circuit) - a collection of embedded Domain-Specific Languages (eDSLs) for neutral-atom quantum computation (my work primarily being on the Structural Quantum Information - `squin` and `stim` eDSLs, as well as interoperability between the two)
 - [kirin](https://github.com/QuEraComputing/kirin) - Infrastructure for building compilers for embedded Domain-Specific Languages (eDSLs) in Python
+- [bloqade-decoders](https://github.com/QuEraComputing/bloqade-decoders) - Simple interface to allow for existing decoders to work with the Bloqade SDK
 
 
 ### ⬅️ Previous Contributions
