@@ -1,21 +1,23 @@
-Greetings! I'm currently a Scientific Software Engineer at [QuEra Computing Inc.](https://www.quera.com/) working on compiler infrastructure for QEC (Quantum Error Correction) on neutral atom quantum computers. I've also contributed to hardware telemetry and educational resources for neutral atom machines.
+> [!TIP]
+> If you're looking for a software engineer with expertise in writing software for research, particularly in the domain of Quantum Computation (with an emphasis on compilers and QEC tooling), I'd love to be part of your team!
+> You can get a feel for my work experience [on my personal site](https://johnzl.com/experience/) or through [LinkedIn](https://www.linkedin.com/in/jzl/) and reach me either via [e-mail](mailto:johnzl.dev@gmail.com) or LinkedIn.
 
-Previously I worked at [If and Only If Technologies](https://iff.bio/) as a Quantum Software Engineer and helped develop workshops for students at [Quantum Computing at Davis](https://quist.ucdavis.edu/QCD) when I was obtaining my Bachelor's degree in Computer Science and Engineering (CSE) at [UC Davis](https://ece.ucdavis.edu/). 
+Greetings! I was previously a Scientific Software Engineer at [QuEra Computing Inc.](https://www.quera.com/) working on compiler infrastructure for QEC (Quantum Error Correction) on neutral atom quantum computers. I also contributed to hardware telemetry and educational resources for neutral atom machines.
+
+I also worked at [If and Only If Technologies](https://iff.bio/) as a Quantum Software Engineer and helped develop workshops for students at [Quantum Computing at Davis](https://quist.ucdavis.edu/QCD) when I was obtaining my Bachelor's degree in Computer Science and Engineering (CSE) at [UC Davis](https://ece.ucdavis.edu/). 
 
 I've also interned at [Sandia National Labs](https://www.sandia.gov/), [General Dynamics Mission Systems](https://gdmissionsystems.com/), and [Intel](https://www.intel.com/content/www/us/en/homepage.html) (2x) as a Software Engineering Intern (: 
 
 ### 📦 Current Contributions
 
-Things I'm currently focused on at QuEra:
-
-- [bloqade-circuit](https://github.com/QuEraComputing/bloqade-circuit) - a collection of embedded Domain-Specific Languages (eDSLs) for neutral-atom quantum computation (my work primarily being on the Structural Quantum Information - `squin` and `stim` eDSLs, as well as interoperability between the two)
-- [kirin](https://github.com/QuEraComputing/kirin) - Infrastructure for building compilers for embedded Domain-Specific Languages (eDSLs) in Python
-- [bloqade-decoders](https://github.com/QuEraComputing/bloqade-decoders) - Simple interface to allow for existing decoders to work with the Bloqade SDK
-
+Stay Tuned!
 
 ### ⬅️ Previous Contributions
 
-#### ⚛️ QuEra Computing Inc. (August 2022 - Present)
+#### ⚛️ QuEra Computing Inc. (August 2022 - September 2026)
+- [bloqade-circuit](https://github.com/QuEraComputing/bloqade-circuit) - a collection of embedded Domain-Specific Languages (eDSLs) for neutral-atom quantum computation (my work primarily being on the Structural Quantum Information - `squin` and `stim` eDSLs, as well as interoperability between the two)
+- [kirin](https://github.com/QuEraComputing/kirin) - Infrastructure for building compilers for embedded Domain-Specific Languages (eDSLs) in Python
+- [bloqade-decoders](https://github.com/QuEraComputing/bloqade-decoders) - Simple interface to allow for existing decoders to work with the Bloqade SDK
 - [Bloqade.jl](https://github.com/QuEraComputing/Bloqade.jl) - Julia-based SDK for simulating analog quantum computation with neutral atoms
 - [ParallelMergeCSR.jl](https://github.com/QuEraComputing/ParallelMergeCSR.jl) - An implementation/port of [Merill and Garland's Merge-based Parallel Sparse Matrix-Vector Multiplication (10.1109/SC.2016.57)](https://ieeexplore.ieee.org/abstract/document/7877136) paper 
 - [DormandPrince.jl](https://github.com/QuEraComputing/DormandPrince.jl) - A pure Julia implementation of the Dormand-Prince 5th and 8th order solvers
