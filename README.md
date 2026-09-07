@@ -6,8 +6,6 @@ Greetings! I was previously a Scientific Software Engineer at [QuEra Computing I
 
 I also worked at [If and Only If Technologies](https://iff.bio/) as a Quantum Software Engineer and helped develop workshops for students at [Quantum Computing at Davis](https://quist.ucdavis.edu/QCD) when I was obtaining my Bachelor's degree in Computer Science and Engineering (CSE) at [UC Davis](https://ece.ucdavis.edu/). 
 
-I've also interned at [Sandia National Labs](https://www.sandia.gov/), [General Dynamics Mission Systems](https://gdmissionsystems.com/), and [Intel](https://www.intel.com/content/www/us/en/homepage.html) (2x) as a Software Engineering Intern (: 
-
 ### 📦 Current Contributions
 
 Stay Tuned!
