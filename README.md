@@ -1,7 +1,3 @@
-> [!TIP]
-> If you're looking for a software engineer with expertise in writing software for research, particularly in the domain of Quantum Computation (with an emphasis on compilers and QEC tooling), I'd love to be part of your team!
-> You can get a feel for my work experience [on my personal site](https://johnzl.com/experience/) or through [LinkedIn](https://www.linkedin.com/in/jzl/) and reach me either via [e-mail](mailto:johnzl.dev@gmail.com) or LinkedIn.
-
 Greetings! I was previously a Scientific Software Engineer at [QuEra Computing Inc.](https://www.quera.com/) working on compiler infrastructure for QEC (Quantum Error Correction) on neutral atom quantum computers. I also contributed to hardware telemetry and educational resources for neutral atom machines.
 
 I also worked at [If and Only If Technologies](https://iff.bio/) as a Quantum Software Engineer and helped develop workshops for students at [Quantum Computing at Davis](https://quist.ucdavis.edu/QCD) when I was obtaining my Bachelor's degree in Computer Science and Engineering (CSE) at [UC Davis](https://ece.ucdavis.edu/). 
